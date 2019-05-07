@@ -7,7 +7,7 @@ All you have to do is clone this repo directly into your `react-native` or `crea
 
 ## Instructions
 
-1. run this directly in your 
+1. run this directly in your react native root project folder
 ```bash
 git clone https://github.com/chrisbull/expo-ts-anywhere
 ```
