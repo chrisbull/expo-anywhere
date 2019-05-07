@@ -18,7 +18,7 @@ git clone https://github.com/chrisbull/expo-ts-anywhere
 ```
 
 3. **IMPORTANT** 
-Create an index.js file at the root level (or adjust your is you have one) to only import the defualt App from your src/App file. 
+Create an index.js file at the root level (or adjust yours if you have one) to only import the defualt App from your src/App file. 
 Example:
 
 ```index.js
