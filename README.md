@@ -51,7 +51,7 @@ Replace `import LinearGradient from 'react-native-linear-gradient'`
 with `import { LinearGradient } from 'expo'`
 
 
-Other common knows ... 
+Other common import fixes ... 
 - `import {... } from 'react-native-vector-icons'`  to `import { ... } from '@expo/vector-icons'`
 - `import {Svg, G, Def} from 'react-native-svg'` to 
     ```
@@ -59,4 +59,4 @@ Other common knows ...
     const { G, Def } = Svg
     ```
     
- - ... you get the idea
+ ... you get the idea
