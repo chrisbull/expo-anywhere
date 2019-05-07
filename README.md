@@ -43,7 +43,7 @@ yarn start
 
 
 ## Caveats
-This project doesn't fix issues with react versions and expo (ie Expo requires react@16.5.0 and react-native@ https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz)
+This project doesn't fix issues with react versions and expo (ie Expo requires `react@16.5.0` and `react-native@https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz`)
 
 Oh and you may need to go through your app and replace imports that are now native to Expo and no longer supported through `react-native link`. For example:
 
