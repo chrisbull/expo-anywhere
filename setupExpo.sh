@@ -3,7 +3,7 @@ rm ./app.json;
 rm ./tsconfig.json;
 
 # mv all required assets for expo to root project
-cp -r ./expo-anywhere/expo-assets/** . ;
+cp -r ./expo-ts-anywhere/expo-assets/** . ;
 
 # install npm dependencies
 yarn add expo \
